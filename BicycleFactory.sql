@@ -177,11 +177,6 @@ INSERT INTO PartType ([Name]) VALUES ('Painted Frame');
 INSERT INTO PartType ([Name]) VALUES ('Painted Handlebar');
 INSERT INTO PartType ([Name]) VALUES ('Unpainted Fender');
 INSERT INTO PartType ([Name]) VALUES ('Painted Fender');
-INSERT INTO PartType ([Name]) VALUES ('Partially Assembled Bicycle A');
-INSERT INTO PartType ([Name]) VALUES ('Partially Assembled Bicycle B');
-INSERT INTO PartType ([Name]) VALUES ('Partially Assembled Bicycle C');
-INSERT INTO PartType ([Name]) VALUES ('Partially Assembled Bicycle D');
-INSERT INTO PartType ([Name]) VALUES ('Partially Assembled Bicycle E');
 INSERT INTO PartType ([Name]) VALUES ('Bicycle Complete');
 
 INSERT INTO WorkStationType ([Name]) VALUES ('Metal Work Station');
